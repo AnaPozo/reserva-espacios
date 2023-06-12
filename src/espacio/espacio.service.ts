@@ -7,7 +7,7 @@ export class EspacioService {
         return 'soy espacio service';
     }
 
-    create(_cresteEspacioDro: CreateEspacioDTO) {
+    create(_cresteEspacioDto: CreateEspacioDTO) {
         return 'post del espacio';
     }
 }
