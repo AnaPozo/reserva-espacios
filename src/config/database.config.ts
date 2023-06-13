@@ -7,7 +7,7 @@ export default registerAs('db',()=>({
     host: 'localhost',
     port:3306,
     username: 'root',
-    password:'Kumagoro1',
+    password:'',
     database: 'espacios',
 
 }));
